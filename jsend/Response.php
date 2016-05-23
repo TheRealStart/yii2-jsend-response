@@ -18,7 +18,7 @@ class Response
 
     private function init()
     {
-        $oauth2service = Yii::$app->getModule('oauth2');
+        $oauth2service = \Yii::$app->getModule('oauth2');
 
         $this->response = $oauth2service->getServer()->getResponse();
 

@@ -1,5 +1,5 @@
 {
-    "name": "the-real-start/yii2-rest-response",
+    "name": "the-real-start/yii2-jsend-response",
     "description": "Small set of tools to help work with JSend specifications (see https://labs.omniti.com/labs/jsend). Package is done for yii2 framework and yii2-oauth2-server. Package was build to simplify bilding response for API using this tools.",
     "type": "yii2-extension",
     "license": "MIT",
@@ -7,7 +7,7 @@
     "homepage": "https://github.com/TheRealStart/yii2-jsend-response",
     "support": {
         "email": "alegz@therealstart.com",
-        "source": "https://github.com/Alegzander/yii2-oauth2-server"
+        "source": "https://github.com/TheRealStart/yii2-jsend-response"
     },
     "authors": [
         {

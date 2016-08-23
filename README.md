@@ -65,21 +65,18 @@ class ProductsController extends BaseController
 
 ```
 ...
-"repositories": [
-		...
-        {
-            "type": "git",
-            "url": "https://git.therealstart.com/sandbox/yii2-rest-response.git"
-        }
-        ...
-    ],
-...
 "require": {
 ...
-	"the-real-start/yii2-rest-response": "*"
+	"the-real-start/yii2-jsend-response": "*"
 }
 ...
 
+```
+
+Или установить через консоль:
+
+```
+composer require the-real-start/yii2-jsend-response
 ```
 
 После установки все классы расширения доступны по namespace-у `TRS\RestResponse`.

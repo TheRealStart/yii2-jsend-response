@@ -23,6 +23,6 @@
     "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": ">=2.0.6",
-        "filsh/yii2-oauth2-server": "~2.2"
+        "alegz/yii2-oauth2-server": "~2.2"
     }
 }
